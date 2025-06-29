@@ -29,7 +29,7 @@
     <Hotel Rating="4.5">
         <Name>Hyatt Place</Name>
         <Phone>480-111-2222</Phone>
-        <Address>
+        <Address NearestAirport="Sky Harbor">
             <Number>101</Number>
             <Street>University Dr</Street>
             <City>Tempe</City>
@@ -50,10 +50,10 @@
         </Address>
     </Hotel>
     
-    <Hotel Rating="3.7">
+    <Hotel>
         <Name>Best Western Inn</Name>
         <Phone>480-444-5555</Phone>
-        <Address>
+        <Address NearestAirport="Sky Harbor">
             <Number>350</Number>
             <Street>Apache Blvd</Street>
             <City>Tempe</City>
@@ -65,7 +65,7 @@
     <Hotel Rating="4.3">
         <Name>Courtyard by Marriott</Name>
         <Phone>480-444-5555</Phone>
-        <Address>
+        <Address NearestAirport="Sky Harbor">
             <Number>601</Number>
             <Street>5th St</Street>
             <City>Tempe</City>
@@ -86,10 +86,10 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="3.9">
+    <Hotel>
         <Name>Holiday Inn Express</Name>
         <Phone>480-777-8888</Phone>
-        <Address>
+        <Address NearestAirport="Sky Harbor">
             <Number>1010</Number>
             <Street>Priest Dr</Street>
             <City>Tempe</City>
@@ -101,7 +101,7 @@
     <Hotel Rating="4.6">
         <Name>Canopy by Hilton</Name>
         <Phone>480-999-0000</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>108</Number>
             <Street>4th St</Street>
             <City>Tempe</City>
@@ -110,10 +110,10 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="3.5">
+    <Hotel>
         <Name>Motel 6 Tempe</Name>
         <Phone>480-123-7890</Phone>
-        <Address>
+        <Address NearestAirport="Sky Harbor">
             <Number>220</Number>
             <Street>Baseline Rd</Street>
             <City>Tempe</City>
