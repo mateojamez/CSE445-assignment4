@@ -5,7 +5,6 @@
     <Hotel Rating="4.2">
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
-        <Phone>800-937-8461</Phone>
         <Address NearestAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E 7th St</Street>
@@ -30,7 +29,6 @@
     <Hotel Rating="4.5">
         <Name>Hyatt Place</Name>
         <Phone>480-111-2222</Phone>
-        <Phone>800-111-2222</Phone>
         <Address>
             <Number>101</Number>
             <Street>University Dr</Street>
@@ -55,7 +53,6 @@
     <Hotel Rating="3.7">
         <Name>Best Western Inn</Name>
         <Phone>480-444-5555</Phone>
-        <Phone>877-333-4444</Phone>
         <Address>
             <Number>350</Number>
             <Street>Apache Blvd</Street>
